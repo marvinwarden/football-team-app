@@ -1,0 +1,14 @@
+.wrapper {
+    
+    height: 700px;
+    width: 1200px;
+    border: solid black;
+    background-color: green;
+}
+
+/* .image {
+    position: relative;
+    top: 100px;
+    width: 100px;
+    background-color: aqua;
+} */

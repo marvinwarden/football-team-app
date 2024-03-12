@@ -1,0 +1,154 @@
+{
+    "players":[
+    {
+      "name": "Lionel",
+      "surname": "Messi",
+      "age": 34,
+      "position": "Forward"
+    },
+    {
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "age": 36,
+      "position": "Forward"
+    },
+    {
+      "name": "Neymar",
+      "surname": "Jr",
+      "age": 29,
+      "position": "Forward"
+    },
+    {
+      "name": "Kylian",
+      "surname": "Mbappe",
+      "age": 23,
+      "position": "Forward"
+    },
+    {
+      "name": "Kevin",
+      "surname": "De Bruyne",
+      "age": 30,
+      "position": "Midfielder"
+    },
+    {
+      "name": "Luka",
+      "surname": "Modric",
+      "age": 36,
+      "position": "Midfielder"
+    },
+    {
+      "name": "Sergio",
+      "surname": "Ramos",
+      "age": 35,
+      "position": "Defender"
+    },
+    {
+      "name": "Virgil",
+      "surname": "van Dijk",
+      "age": 30,
+      "position": "Defender"
+    },
+    {
+      "name": "Robert",
+      "surname": "Lewandowski",
+      "age": 33,
+      "position": "Forward"
+    },
+    {
+      "name": "Mohamed",
+      "surname": "Salah",
+      "age": 29,
+      "position": "Forward"
+    },
+    {
+      "name": "Harry",
+      "surname": "Kane",
+      "age": 28,
+      "position": "Forward"
+    },
+    {
+      "name": "Bruno",
+      "surname": "Fernandes",
+      "age": 27,
+      "position": "Midfielder"
+    },
+    {
+      "name": "Joshua",
+      "surname": "Kimmich",
+      "age": 27,
+      "position": "Midfielder"
+    },
+    {
+      "name": "Jan",
+      "surname": "Vertonghen",
+      "age": 34,
+      "position": "Defender"
+    },
+    {
+      "name": "Trent",
+      "surname": "Alexander-Arnold",
+      "age": 23,
+      "position": "Defender"
+    },
+    {
+      "name": "Marc-Andre",
+      "surname": "ter Stegen",
+      "age": 29,
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Alisson",
+      "surname": "Becker",
+      "age": 29,
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Thiago",
+      "surname": "Silva",
+      "age": 37,
+      "position": "Defender"
+    },
+    {
+      "name": "Karim",
+      "surname": "Benzema",
+      "age": 34,
+      "position": "Forward"
+    },
+    {
+      "name": "Romelu",
+      "surname": "Lukaku",
+      "age": 28,
+      "position": "Forward"
+    },
+    {
+      "name": "Eden",
+      "surname": "Hazard",
+      "age": 31,
+      "position": "Forward"
+    },
+    {
+      "name": "Raheem",
+      "surname": "Sterling",
+      "age": 27,
+      "position": "Forward"
+    },
+    {
+      "name": "Jamie",
+      "surname": "Vardy",
+      "age": 35,
+      "position": "Forward"
+    },
+    {
+      "name": "Marcus",
+      "surname": "Rashford",
+      "age": 24,
+      "position": "Forward"
+    },
+    {
+      "name": "Joao",
+      "surname": "Cancelo",
+      "age": 27,
+      "position": "Defender"
+    }
+  ]
+  }
